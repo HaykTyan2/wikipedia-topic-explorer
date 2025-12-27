@@ -34,6 +34,7 @@ The crawler only follows valid Wikipedia article links and avoids special pages 
 ------------------------------------------------------------------------------------------------------------------------------
 
 ## Project structure
+```
 wikipedia-topic-explorer/
 ├── src/
 │ ├── explorer.py # Crawl logic and traversal control
@@ -49,7 +50,7 @@ wikipedia-topic-explorer/
 ├── requirements.txt # Project dependencies
 ├── randomWords.txt # Optional word list for generating CSV filenames
 ├── README.md
-
+```
 ------------------------------------------------------------------------------------------------------------------------------
 
 ## File explanations
